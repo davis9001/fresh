@@ -31,4 +31,4 @@ jobs:
         with:
           project: "davidmonagh-fresh-65"
           entrypoint: "main.ts"
-          root: "./www"
+          root: "."
